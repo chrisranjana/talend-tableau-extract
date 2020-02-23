@@ -18,7 +18,7 @@ What else do I need?
 
 Talend DI 5.4+ from www.talend.com
 Tableau 10.x extract API from www.tableau.com
-Tableau Developer Tableau Engineer https://www.chrisranjana.com/tableauengineertableaudeveloper.html
+[Tableau Developer Tableau Engineer] (https://www.chrisranjana.com/tableauengineertableaudeveloper.html)
 Windows 64bit + Java 64bit
 
 
